@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-chat-and-bots-nextjs",
+  "capabilityKey": "liberusoftware/module-crm-chat-and-bots",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-crm-chat-and-bots-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/crm/nextjs/chat-and-bots.md",
+  "presentationPlan": "projects/crm/nextjs/chat-and-bots.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
